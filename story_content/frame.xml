@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns11111101101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns11111101101" font="Arial" controllayout="npnxnanbsnfns11111101101" colorscheme="npxnabnsnfns11111101101" string_table="npxnabnsnfns11111101101" />
+    <layout name="pxabnsnfns11111101101" font="Arial" controllayout="pxabnsnfns11111101101" colorscheme="npxnabnsnfns11111101101" string_table="npxnabnsnfns11111101101" />
+    <layout name="npxnabnsnfns11111101101" font="Arial" controllayout="npxnabnsnfns11111101101" colorscheme="npxnabnsnfns11111101101" string_table="npxnabnsnfns11111101101" />
+    <layout name="npnxnanbnsnfns11111101101" font="Arial" controllayout="npnxnanbnsnfns11111101101" colorscheme="npxnabnsnfns11111101101" string_table="npxnabnsnfns11111101101" />
+    <layout name="pxabnsnfns11111101100" font="Arial" controllayout="pxabnsnfns11111101100" colorscheme="npxnabnsnfns11111101101" string_table="npxnabnsnfns11111101101" />
+    <layout name="pnxanbnsnfns11111101101" font="Arial" controllayout="pnxanbnsnfns11111101101" colorscheme="npxnabnsnfns11111101101" string_table="npxnabnsnfns11111101101" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="false">
+            <options>
+              <option name="title_text" value="Introduction to thyssenkrupp Elevator" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="704" />
+                  <property name="height" value="598" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6WYcTL1H2pK.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="false" />
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111101100">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns11111101101">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x74C4EF" alpha="100" stop="0" />
+                <color rgb="0x00A0F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+                <color rgb="0x78879B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+                <color rgb="0x00A0F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+                <color rgb="0x0078DC" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x74C4EF" alpha="100" stop="0" />
+                <color rgb="0x00A0F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0078DC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+                <color rgb="0x78879B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+                <color rgb="0x00A0F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0078DC" alpha="100" stop="0" />
+                <color rgb="0x00A0F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+                <color rgb="0x0078DC" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0078DC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB0BAC4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+                <color rgb="0x00A0F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+                <color rgb="0xD9DEE8" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x74C4EF" alpha="100" stop="0" />
+                <color rgb="0x74C4EF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+                <color rgb="0x78879B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+                <color rgb="0x78879B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+                <color rgb="0x00A0F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0078DC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B5564" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0055BE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00A0F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x003C7D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x78879B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9DEE8" alpha="100" stop="0" />
+                <color rgb="0x78879B" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns11111101101">
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Arial">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="TKTypeRegular">
+      <files>
+        <file bold="false" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6pPQTP9aCms" displaytext="Introduction to thyssenkrupp Elevator" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6pPQTP9aCms.6H6lDMN7uIU" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.66e1dVU3LIk" displaytext="So you work for an elevator company…." expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.69wMDaNlwCg" displaytext="A global company" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6IvCwdLgmuj" displaytext="thyssenkrupp Global" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5VSPfYHL7M2" displaytext="Test your knowledge!" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6SGi9ZPKCPG" displaytext="We care about safety!" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6LqN0tH34dq" displaytext="How we operate" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6kwkp0Ecm4x" displaytext="Industry leading engineering" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5bgB6YZS1NA" displaytext="High quality passenger transportation" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.67sOzu6fn7L" displaytext="Urban life" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5ftSGYJOke1" displaytext="Apply existing technologies and develop new solutions" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.61pLPNHDf4e" displaytext="One World Trade Center" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5wmNodyo2Rv" displaytext="1.2 million passenger transportation modes" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6Fttnl7sSFJ" displaytext="Test your knowledge!" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6lIvtphTgOy" displaytext="thyssenkrupp Elevator Business Units" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6As4U4kaxuf" displaytext="Lines of business" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5xYc8wSxeld" displaytext="Test your knowledge!" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6Mbu75ut3N0" displaytext="Elevator basics" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6XCkrw7KX0V" displaytext="Question 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6BRf37ktGco" displaytext="Question 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6XwdOVpKnb1" displaytext="Question 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6UcQ4ta60RJ" displaytext="Question 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6YyVfHUi5iS" displaytext="Question 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6WpUGjxWHm7" displaytext="Question 6" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5p7zHsTapCB" displaytext="Question 7" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5aMHUxmJQrX" displaytext="Question 8" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5puOB5oCHuA" displaytext="Question 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5k8Z8cQIwsQ" displaytext="Question 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5rbhmpQpJcL" displaytext="thyssenkrupp equipment" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5bYvxcJLUja" displaytext="thyssenkrupp Elevator Americas products" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6qPJlVP5hv4" displaytext="Future is now" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5f4VeQaDVBh" displaytext="Innovative products, knowledgeable people" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.5tBamMy1U13" displaytext="Resources" expand="false" type="slide" />
+            <slidelink slideid="_player.6pPQTP9aCms.6WdVCJPiQoV" displaytext="Thank you" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Arial' style='font-size: 11px;' size='11' color='#003C7D'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="https://www.thyssenkruppelevator.com/webapps/classroom-on-demand/SearchResults.aspx#1" image="story_content/url.png" title="Classroom on Demand" />
+      <resource url="https://intranet.thyssenkruppelevator.com/" image="story_content/url.png" title="the lobby" />
+      <resource url="http://www.urban-hub.com/" image="story_content/url.png" title="www.urban-hub.com" />
+    </resources>
+  </resource_data>
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6pPQTP9aCms.6H6lDMN7uIU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Welcome to thyssenkrupp Elevator. If &lt;/font&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;you’re like most people, you’ve probably never given much thought to where elevators come from.  Now that you’re here, we want to show you how important the world of people transportation really is.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;This course has audio. Please adjust your computer’s speakers.  If you would like to view navigation instructions for this course, click &lt;/font&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;the link at the bottom of your screen&lt;/font&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.66e1dVU3LIk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Over the next 15 minutes, we will take you on a journey into the world of thyssenkrupp where you will learn about our organization’s global presence…&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;our culture of safety…&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;and our products, especially the one that brought you here….elevators!&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.69wMDaNlwCg" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;thyssenkrupp is a global company, headquartered in Essen, Germany that manufactures products and components in a wide variety of markets and product segments…&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5VSPfYHL7M2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='12.5pt' style='font-size:12.5pt' color='#003c7d'&gt;Let’s test your knowledge! Drag and drop the correct answer below to fill in the blank in the following statement.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6SGi9ZPKCPG" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;The leadership of thyssenkrupp Elevator will ensure that you have the best training, information, tools, and support in order to do the job safely. However, “Success in Safety” needs everyone to do their part as we all have an important role. There is no rank when it comes to safety. If you see someone committing an unsafe act or you identify an unsafe condition, stop that person or fix that condition. If you need help, report it to your supervisor or safety manager. We can never “look the other way.”&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;In the event of ANY work-related injury or accident, the injured employee must notify his or her supervisor IMMEDIATELY. This includes minor accidents, regardless of how minor they may seem.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6LqN0tH34dq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Our business operations are organized in six business areas: Components Technology, Elevator Technology, Industrial Solutions, Materials Services, Steel Europe and Steel Americas. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;The business areas are divided into business units. Click the pictures to go the websites of each business area, if you would like to learn more. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6kwkp0Ecm4x" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;At thyssenkrupp Elevator, our industry-leading engineering skills make us a reliable and innovative partner.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5bgB6YZS1NA" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Customers trust us to engineer, deliver and maintain high quality passenger transportation systems.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.67sOzu6fn7L" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;That’s why we’re committed to working together to make cities the best places to live.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;http://www.urban-hub.com/&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5ftSGYJOke1" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;They count on us to intelligently apply existing technologies and develop next-generation solutions to move people safely, comfortably and efficiently, today and in the future.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.61pLPNHDf4e" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;In fact, if you have visited One World Trade Center, you’ve probably ridden one of the 71 thyssenkrupp elevators or 12 escalators in the building.  If the weather was clear, you saw thyssenkrupp manufactured steel plates comprising the spire on top of the building. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5wmNodyo2Rv" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Even if you haven’t been to One World Trade Center, the odds are still pretty good that you have ridden one of the 1.2 million passenger transportation modes around the world manufactured or serviced by thyssenkrupp Elevator.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6lIvtphTgOy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;thyssenkrupp Elevator is made up of four business units, three of which concentrate on our regional elevator and escalator business in Europe/Africa, the Americas and Asia/Pacific.  Access Solutions, our fourth business unit, markets and sells our home solutions and passenger boarding bridges worldwide. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;thyssenkrupp Americas consists of Brazil, Canada, Latin America and the United States.  The Field organization has a presence in each country.  The United States and Brazil also have manufacturing locations.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6As4U4kaxuf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='3' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Our elevator business is segmented into three lines of business - New Installation, Service and Repair and Modernization. Click on the images to learn more about each. Once you’ve learned about all three, click Next to continue.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='3' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='3' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;New Installation serves the construction industry.  Most of the people who buy our equipment are general contractors, architects, consultants and engineers who specify our products for buildings under construction. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='3' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='3' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Just like your car, elevators and escalators need regular maintenance and occasional repairs.  And our service and repair line of business sells to building and facility management companies or owners.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Over time, elevators and escalators wear out.  Modernization replaces major components to rebuild a more reliable and energy-efficient system.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='3' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='3' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6Mbu75ut3N0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Our customers rely on thyssenkrupp Elevator to provide them with quality products and services as well as elevator expertise.  That’s why it’s important for our employees to understand elevator basics. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6XCkrw7KX0V" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='12.5pt' style='font-size:12.5pt' color='#003c7d'&gt;First, let’s see how much you know. Click the radio buttons to answer the elevator trivia question. Then click Submit to submit your response. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5rbhmpQpJcL" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;&lt;i&gt;All of this technology comes into play when we are designing, installing and maintaining our own thyssenkrupp equipment.  &lt;/i&gt;&lt;/font&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;&lt;i&gt;Click NEXT to learn more about some of our specific thyssenkrupp Elevator equipment. &lt;/i&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5bYvxcJLUja" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;thyssenkrupp Elevator Americas is applying existing technologies while also developing technology of the next generation. Click the blue buttons next to our products below to learn more about each and what customer they may work best for. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Hydraulic elevators get the job done in a cost effective way for buildings up to four stories. Small offices, shops, schools, worship facilities and hotels need sensible options in elevators and our endura product fits these needs well. The uncomplicated design of the hydraulic elevator uses fewer moving parts to lift heavy loads and keeps maintenance costs low, without sacrificing building space or sustainability. Our hydraulic elevators use environmentally safe fluids.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;Traction elevators provide optimal ride quality, faster speeds and expend less time and energy to move people in your building. synergy, our mid-rise elevator for Low- to Mid-rise buildings of up to 20 floors, is ideal for commercial, residential and mixed-use spaces. synergy is available in two configurations, self- and building-supported. The machine room-less design requires less space and features our advanced regenerative drive technology.&lt;/font&gt;&lt;i&gt; &lt;/i&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;When height and speed are essential, our high-rise momentum elevators can adapt to your vision as quickly as we can move people.The world’s high-rise buildings are skyrocketing to over 2,000 feet. And our elevators can reach the top with an elevator that moves with precision and speed, while remaining remarkably energy efficient and reliable.  momentum has few restrictions on travel height and with speeds up to 2000 feet per minute, the technology can be adapted to buildings that truly want it all.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6qPJlVP5hv4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;The future is now.  thyssenkrupp is dedicated to innovation and always has an eye toward developing products that will enhance our customer experience.  For example…..&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;MAX, the elevator industry’s first real-time, cloud-connected, predictive maintenance solution will take elevator availability, reliability and efficiency to new heights.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='2' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;The TWIN&amp;#174; elevator system has two cars, arranged on top of each other, that operate in one hoistway. Each elevator has its own traction drive, controller, ropes, counterweight and governor and share the same guide rails and landing doors. The cars move independently in the hoistway; &lt;/font&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;h&lt;/font&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;owever, they always have a minimum separation.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5f4VeQaDVBh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;We hope that you have a better understanding of what makes up an elevator as well as how thyssenkrupp’s innovative products and knowledgeable people create a positive experience for our customers.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.5tBamMy1U13" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;For additional information on the basic workings of elevator systems, including the most widely used terminology and references, visit thyssenkrupp Elevator’s Classroom on Demand site.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;To learn more about thyssenkrupp, thyssenkrupp Elevator, our products and our culture, visit our intranet site, the lobby. You may also access these links in the Resources page at the top right of your training.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6pPQTP9aCms.6WdVCJPiQoV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='TKTypeRegular' size='15pt' style='font-size:15pt' color='#003c7d'&gt;So welcome again to thyssenkrupp Elevator! We’re so glad you’re here. Thank you for completing this training. To close this training, you may click the X to close this window.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
